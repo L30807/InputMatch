@@ -1,8 +1,5 @@
 package InputTest;
 import java.util.Scanner;
-import java.io.IOException;
-import java.util.Base64.Encoder;
-import java.util.Base64.Decoder;
 
 public class InputTest {
 	
